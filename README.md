@@ -1,0 +1,1 @@
+This is lakanet. A simple app to book classrooms at the Swedish Adult Education Institute of Helsinki.

@@ -1,0 +1,16 @@
+{
+  "name": "Lakanet",
+  "version": "0.0.0",
+  "description": "A simple app to book classrooms.",
+  "main": "server.js",
+  "repository": "",
+  "author": "",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "mongodb": "^3.6.6",
+    "mysql": "^2.18.1"
+  }
+}
